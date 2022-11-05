@@ -1,0 +1,23 @@
+GRID: {15}
+FRAME_IMG: {img\\frame.png}
+PIXEL_IMG: {img\\100_pixel.png}
+FLAG_IMG: {img\\skier_flag.png}
+TREE_IMG: {img\\skier_tree.png}
+SNOWMAN0_IMG: {img\\snowman.png}
+SNOWMAN0_CRASH: {img\\snowman_crash.png}
+SNOWMAN0_SCORE: {Green snowman: }
+SNOWMAN1_IMG: {img\\snowman1.png}
+SNOWMAN1_CRASH: {img\\snowman1_crash.png}
+SNOWMAN1_SCORE: {Blue snowman: }
+SNOWMAN2_IMG: {img\\snowman2.png}
+SNOWMAN2_CRASH: {img\\snowman2_crash.png}
+SNOWMAN2_SCORE: {Snowman2: }
+SNOWMAN3_IMG: {img\\snowman3.png}
+SNOWMAN3_CRASH: {img\\snowman3_crash.png}
+SNOWMAN3_SCORE: {Snowman3 :}
+SKIER_IMG: {img\\skier_down.png}
+SKIER_LEFT1: {img\\skier_left1.png}
+SKIER_LEFT2: {img\\skier_left2.png}
+SKIER_RIGHT1: {img\\skier_right1.png}
+SKIER_RIGHT2: {img\\skier_right2.png}
+SKIER_CRASH_IMG: {img\\skier_crash.png}
