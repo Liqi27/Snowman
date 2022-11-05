@@ -10,6 +10,7 @@ something old
 1.打开文件后按任意一键开始游戏，或5秒后自动开始         
 2.1分钟后游戏结束时按右上方‘x’退出
 
+图片放在文件夹img内.
 源代码在AI-snowman文件夹的AI_snowman.py文件内
 
 
